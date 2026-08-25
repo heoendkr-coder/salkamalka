@@ -129,5 +129,16 @@
   "search": "https://www.coupang.com/np/search?q=%EC%9E%90%EB%A6%BD%ED%98%95%20%EB%B0%A9%EC%88%98%20%ED%94%BC%ED%81%AC%EB%8B%89%20%EB%A7%A4%ED%8A%B8",
   "status": "search_only",
   "checkedAt": ""
+ },
+ {
+  "no": 12,
+  "title": "무타공 셀프 방충망 (자석·벨크로)",
+  "desc": "창틀에 붙이기만 · 가위로 크기 맞춤 · 밀어서 여닫기",
+  "primary": "",
+  "alt1": "",
+  "alt2": "",
+  "search": "https://www.coupang.com/np/search?q=%EB%AC%B4%ED%83%80%EA%B3%B5%20%EC%85%80%ED%94%84%20%EB%B0%A9%EC%B6%A9%EB%A7%9D%20%EC%9E%90%EC%84%9D",
+  "status": "search_only",
+  "checkedAt": ""
  }
 ]
