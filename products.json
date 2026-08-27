@@ -151,5 +151,16 @@
   "search": "https://www.coupang.com/np/search?q=%EB%A0%88%ED%8A%B8%EB%A1%9C%20%EC%B9%B4%EB%A9%94%EB%9D%BC%20%ED%8F%B0%EC%BC%80%EC%9D%B4%EC%8A%A4%20%EC%85%94%ED%84%B0",
   "status": "search_only",
   "checkedAt": ""
+ },
+ {
+  "no": 14,
+  "title": "차량 문콕 방지 몰딩",
+  "desc": "",
+  "primary": "",
+  "alt1": "",
+  "alt2": "",
+  "search": "https://www.coupang.com/np/search?q=%EC%B0%A8%EB%9F%89%20%EB%AC%B8%EC%BD%95%20%EB%B0%A9%EC%A7%80%20%EB%AA%B0%EB%94%A9",
+  "status": "search_only",
+  "checkedAt": ""
  }
 ]
