@@ -162,5 +162,93 @@
   "search": "https://www.coupang.com/np/search?q=%EC%B0%A8%EB%9F%89%20%EB%AC%B8%EC%BD%95%20%EB%B0%A9%EC%A7%80%20%EB%AA%B0%EB%94%A9",
   "status": "search_only",
   "checkedAt": ""
+ },
+ {
+  "no": 17,
+  "title": "냉장고 캔·음료 정리 트레이",
+  "desc": "",
+  "primary": "",
+  "alt1": "",
+  "alt2": "",
+  "search": "https://www.coupang.com/np/search?q=%EB%83%89%EC%9E%A5%EA%B3%A0%20%EC%BA%94%C2%B7%EC%9D%8C%EB%A3%8C%20%EC%A0%95%EB%A6%AC%20%ED%8A%B8%EB%A0%88%EC%9D%B4",
+  "status": "search_only",
+  "checkedAt": ""
+ },
+ {
+  "no": 21,
+  "title": "자동 다림질 기계",
+  "desc": "",
+  "primary": "",
+  "alt1": "",
+  "alt2": "",
+  "search": "https://www.coupang.com/np/search?q=%EC%9E%90%EB%8F%99%20%EB%8B%A4%EB%A6%BC%EC%A7%88%20%EA%B8%B0%EA%B3%84",
+  "status": "search_only",
+  "checkedAt": ""
+ },
+ {
+  "no": 19,
+  "title": "모서리 세워지는 방수 돗자리",
+  "desc": "",
+  "primary": "",
+  "alt1": "",
+  "alt2": "",
+  "search": "https://www.coupang.com/np/search?q=%EB%AA%A8%EC%84%9C%EB%A6%AC%20%EC%84%B8%EC%9B%8C%EC%A7%80%EB%8A%94%20%EB%B0%A9%EC%88%98%20%EB%8F%97%EC%9E%90%EB%A6%AC",
+  "status": "search_only",
+  "checkedAt": ""
+ },
+ {
+  "no": 18,
+  "title": "노란 끈끈이 날파리 트랩",
+  "desc": "",
+  "primary": "",
+  "alt1": "",
+  "alt2": "",
+  "search": "https://www.coupang.com/np/search?q=%EB%85%B8%EB%9E%80%20%EB%81%88%EB%81%88%EC%9D%B4%20%EB%82%A0%ED%8C%8C%EB%A6%AC%20%ED%8A%B8%EB%9E%A9",
+  "status": "search_only",
+  "checkedAt": ""
+ },
+ {
+  "no": 20,
+  "title": "투명 서랍 수납장",
+  "desc": "",
+  "primary": "",
+  "alt1": "",
+  "alt2": "",
+  "search": "https://www.coupang.com/np/search?q=%ED%88%AC%EB%AA%85%20%EC%84%9C%EB%9E%8D%20%EC%88%98%EB%82%A9%EC%9E%A5",
+  "status": "search_only",
+  "checkedAt": ""
+ },
+ {
+  "no": 23,
+  "title": "방충망 청소 브러시",
+  "desc": "",
+  "primary": "",
+  "alt1": "",
+  "alt2": "",
+  "search": "https://www.coupang.com/np/search?q=%EB%B0%A9%EC%B6%A9%EB%A7%9D%20%EC%B2%AD%EC%86%8C%20%EB%B8%8C%EB%9F%AC%EC%8B%9C",
+  "status": "search_only",
+  "checkedAt": ""
+ },
+ {
+  "no": 22,
+  "title": "가위로 재단하는 현관 매트",
+  "desc": "",
+  "primary": "",
+  "alt1": "",
+  "alt2": "",
+  "search": "https://www.coupang.com/np/search?q=%EA%B0%80%EC%9C%84%EB%A1%9C%20%EC%9E%AC%EB%8B%A8%ED%95%98%EB%8A%94%20%ED%98%84%EA%B4%80%20%EB%A7%A4%ED%8A%B8",
+  "status": "search_only",
+  "checkedAt": ""
+ },
+ {
+  "no": 25,
+  "title": "방수 가죽 식탁 매트",
+  "desc": "",
+  "primary": "",
+  "alt1": "",
+  "alt2": "",
+  "search": "https://www.coupang.com/np/search?q=%EB%B0%A9%EC%88%98%20%EA%B0%80%EC%A3%BD%20%EC%8B%9D%ED%83%81%20%EB%A7%A4%ED%8A%B8",
+  "status": "search_only",
+  "checkedAt": ""
  }
 ]
