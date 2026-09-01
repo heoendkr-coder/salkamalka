@@ -28,6 +28,9 @@ body{margin:0;background:var(--bg);color:var(--tx);
 .subs{flex-wrap:wrap}
 .subs a{flex:1 1 30%;background:var(--pt2);color:#cfd6e4;text-align:center;font-size:11.5px;
  padding:9px 4px;border-radius:8px;text-decoration:none;border:1px solid var(--line)}
+.jump{display:flex;gap:7px;margin:0 0 16px}
+.jump input{flex:1;min-width:0;background:var(--card);border:1px solid var(--line);border-radius:10px;color:var(--tx);padding:11px 13px;font-size:14px}
+.jump button{background:var(--pt);color:#1a1d24;border:none;border-radius:10px;padding:0 18px;font-size:14px;font-weight:700}
 .card.hl{border-color:var(--pt);box-shadow:0 0 0 2px var(--pt);transition:box-shadow .3s}
 .ft{text-align:center;color:#5c6474;font-size:11px;margin-top:26px;line-height:1.7}
 </style>
@@ -44,6 +47,11 @@ body{margin:0;background:var(--bg);color:var(--tx);
   이 페이지는 <b>쿠팡 파트너스 활동의 일환</b>으로, 이에 따른 일정액의 수수료를 제공받습니다.<br>
   영상 속 제품과 아래 상품은 <b>동일한 제품이 아닐 수 있습니다.</b>
   기능·형태가 비슷한 상품을 골라 소개하니 구매 전 규격과 옵션을 확인해 주세요.
+</div>
+
+<div class="jump">
+  <input id="jin" inputmode="numeric" placeholder="영상 번호로 바로 찾기">
+  <button id="jbtn">이동</button>
 </div>
 
 <div id="list"></div>
@@ -69,9 +77,12 @@ fetch('products.json?v=' + Date.now()).then(r => r.json()).then(items => {
       ${subs.length ? `<div class="subs">${subs.join('')}</div>` : ''}
     </div>`;
   }).join('');
-  const h=location.hash.replace('#','').trim();
-  if(h){const t=document.getElementById('p'+h);if(t){t.classList.add('hl');t.scrollIntoView({block:'center'});}}
+  function jump(){const h=location.hash.replace('#','').trim();if(!h)return;const t=document.getElementById('p'+h);if(t){document.querySelectorAll('.card.hl').forEach(c=>c.classList.remove('hl'));t.classList.add('hl');t.scrollIntoView({block:'center'});}}
+  jump(); window.addEventListener('hashchange', jump);
 });
+const _jb=document.getElementById('jbtn'), _ji=document.getElementById('jin');
+function _go(){const v=_ji.value.trim();if(v)location.hash=v;}
+if(_jb){_jb.onclick=_go; _ji.addEventListener('keydown',e=>{if(e.key==='Enter')_go();});}
 </script>
 </body>
 </html>
