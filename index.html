@@ -28,6 +28,7 @@ body{margin:0;background:var(--bg);color:var(--tx);
 .subs{flex-wrap:wrap}
 .subs a{flex:1 1 30%;background:var(--pt2);color:#cfd6e4;text-align:center;font-size:11.5px;
  padding:9px 4px;border-radius:8px;text-decoration:none;border:1px solid var(--line)}
+.card.hl{border-color:var(--pt);box-shadow:0 0 0 2px var(--pt);transition:box-shadow .3s}
 .ft{text-align:center;color:#5c6474;font-size:11px;margin-top:26px;line-height:1.7}
 </style>
 </head>
@@ -61,13 +62,15 @@ fetch('products.json?v=' + Date.now()).then(r => r.json()).then(items => {
     if (p.alt1) subs.push(`<a href="${p.alt1}" target="_blank" rel="nofollow sponsored noopener">가성비 [저렴해요]</a>`);
     if (p.alt2) subs.push(`<a href="${p.alt2}" target="_blank" rel="nofollow sponsored noopener">프리미엄 [좋아요]</a>`);
     if (p.primary && p.search) subs.push(`<a href="${p.search}" target="_blank" rel="nofollow sponsored noopener">비슷한 제품 전체보기</a>`);
-    return `<div class="card">
+    return `<div class="card" id="p${p.no}">
       <div class="name"><span class="no">${no}.</span> ${p.title}</div>
       <div class="desc">${p.desc || ''}</div>
       <a class="main" href="${main}" target="_blank" rel="nofollow sponsored noopener">${label}</a>
       ${subs.length ? `<div class="subs">${subs.join('')}</div>` : ''}
     </div>`;
   }).join('');
+  const h=location.hash.replace('#','').trim();
+  if(h){const t=document.getElementById('p'+h);if(t){t.classList.add('hl');t.scrollIntoView({block:'center'});}}
 });
 </script>
 </body>
