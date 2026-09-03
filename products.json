@@ -294,5 +294,16 @@
   "search": "https://www.coupang.com/np/search?q=%EB%AC%BC%20%EC%97%86%EC%9D%B4%20%EB%B6%99%EC%9D%B4%EB%8A%94%20%EC%85%80%ED%94%84%20%EC%A0%91%EC%B0%A9%20%EB%B2%BD%EC%A7%80",
   "status": "search_only",
   "checkedAt": ""
+ },
+ {
+  "no": 56,
+  "title": "접이식 욕조",
+  "desc": "",
+  "primary": "",
+  "alt1": "",
+  "alt2": "",
+  "search": "https://www.coupang.com/np/search?q=%EC%A0%91%EC%9D%B4%EC%8B%9D%20%EC%9A%95%EC%A1%B0",
+  "status": "search_only",
+  "checkedAt": ""
  }
 ]
