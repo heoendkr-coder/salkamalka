@@ -53,5 +53,16 @@
   "search": "https://www.coupang.com/np/search?q=%EB%B2%BD%EA%B1%B8%EC%9D%B4%20%EC%A0%91%EC%9D%B4%EC%8B%9D%20%EB%B9%A8%EB%9E%98%EA%B1%B4%EC%A1%B0%EB%8C%80",
   "status": "search_only",
   "checkedAt": ""
+ },
+ {
+  "no": 60,
+  "title": "침대 옆 태블릿 거치 테이블",
+  "desc": "",
+  "primary": "",
+  "alt1": "",
+  "alt2": "",
+  "search": "https://www.coupang.com/np/search?q=%EC%B9%A8%EB%8C%80%20%EC%98%86%20%ED%83%9C%EB%B8%94%EB%A6%BF%20%EA%B1%B0%EC%B9%98%20%ED%85%8C%EC%9D%B4%EB%B8%94",
+  "status": "search_only",
+  "checkedAt": ""
  }
 ]
