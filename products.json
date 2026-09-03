@@ -272,5 +272,27 @@
   "search": "https://www.coupang.com/np/search?q=%EC%84%B8%EB%A9%B4%EB%8C%80%20%EB%A7%8C%EB%8A%A5%20%ED%9A%8C%EC%A0%84%20%EC%88%98%EB%8F%84%EA%BC%AD%EC%A7%80%20%EC%97%B0%EC%9E%A5%EA%B8%B0",
   "status": "search_only",
   "checkedAt": ""
+ },
+ {
+  "no": 45,
+  "title": "물만 뿌려 붙이는 사생활 창문 필름",
+  "desc": "",
+  "primary": "",
+  "alt1": "",
+  "alt2": "",
+  "search": "https://www.coupang.com/np/search?q=%EB%AC%BC%EB%A7%8C%20%EB%BF%8C%EB%A0%A4%20%EB%B6%99%EC%9D%B4%EB%8A%94%20%EC%82%AC%EC%83%9D%ED%99%9C%20%EC%B0%BD%EB%AC%B8%20%ED%95%84%EB%A6%84",
+  "status": "search_only",
+  "checkedAt": ""
+ },
+ {
+  "no": 49,
+  "title": "물 없이 붙이는 셀프 접착 벽지",
+  "desc": "",
+  "primary": "",
+  "alt1": "",
+  "alt2": "",
+  "search": "https://www.coupang.com/np/search?q=%EB%AC%BC%20%EC%97%86%EC%9D%B4%20%EB%B6%99%EC%9D%B4%EB%8A%94%20%EC%85%80%ED%94%84%20%EC%A0%91%EC%B0%A9%20%EB%B2%BD%EC%A7%80",
+  "status": "search_only",
+  "checkedAt": ""
  }
 ]
