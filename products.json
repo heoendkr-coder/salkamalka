@@ -466,11 +466,15 @@
   "no": 74,
   "title": "세탁기 먼지 필터망",
   "desc": "",
-  "primary": "",
-  "alt1": "",
-  "alt2": "",
-  "search": "https://www.coupang.com/np/search?q=%EC%84%B8%ED%83%81%EA%B8%B0%20%EB%A8%BC%EC%A7%80%20%ED%95%84%ED%84%B0%EB%A7%9D",
-  "status": "search_only",
-  "checkedAt": ""
+  "primary": "https://link.coupang.com/a/gRqBpY8eCi",
+  "alt1": "https://link.coupang.com/a/gRqBp4uXNk",
+  "alt2": "https://link.coupang.com/a/gRqBp9dpi8",
+  "search": "https://link.coupang.com/a/gRqBqbmYOy",
+  "status": "active",
+  "checkedAt": "2026-09-08",
+  "kw": "세탁기 먼지 필터망",
+  "altsChecked": "2026-09-08",
+  "primaryName": "세탁기모아 엘지 세탁기 WF-KH103 거름망 필터 호환 먼지망 먼지거름망 먼지제거",
+  "subId": "salka074"
  }
 ]
