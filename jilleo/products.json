@@ -189,11 +189,15 @@
   "no": 58,
   "title": "벽걸이 접이식 책상",
   "desc": "",
-  "primary": "",
-  "alt1": "",
-  "alt2": "",
-  "search": "https://www.coupang.com/np/search?q=%EB%B2%BD%EA%B1%B8%EC%9D%B4%20%EC%A0%91%EC%9D%B4%EC%8B%9D%20%EC%B1%85%EC%83%81",
-  "status": "search_only",
-  "checkedAt": ""
+  "primary": "https://link.coupang.com/a/gQ1ysLbk28",
+  "alt1": "https://link.coupang.com/a/gQ1ysQHAxU",
+  "alt2": "https://link.coupang.com/a/gQ1ysWlzxI",
+  "search": "https://link.coupang.com/a/gQ1ysZA232",
+  "status": "active",
+  "checkedAt": "2026-09-07",
+  "kw": "벽걸이 접이식 책상",
+  "altsChecked": "2026-09-07",
+  "primaryName": "접이식 스텐 테이블 벽걸이테이블 접이식식탁 확장형 공간활용 다용도 책상",
+  "subId": "jilleo058"
  }
 ]
