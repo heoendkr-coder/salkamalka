@@ -541,11 +541,15 @@
   "no": 55,
   "title": "정전기 청소포 밀대",
   "desc": "",
-  "primary": "",
-  "alt1": "",
-  "alt2": "",
-  "search": "https://www.coupang.com/np/search?q=%EC%A0%95%EC%A0%84%EA%B8%B0%20%EC%B2%AD%EC%86%8C%ED%8F%AC%20%EB%B0%80%EB%8C%80",
-  "status": "search_only",
-  "checkedAt": ""
+  "primary": "https://link.coupang.com/a/gV1qVmbjky",
+  "alt1": "https://link.coupang.com/a/gV1qVrGDhQ",
+  "alt2": "https://link.coupang.com/a/gV1qVwTaAC",
+  "search": "https://link.coupang.com/a/gV1qVzxTW0",
+  "status": "active",
+  "checkedAt": "2026-09-10",
+  "kw": "정전기 청소포 밀대",
+  "altsChecked": "2026-09-10",
+  "primaryName": "[홈쇼핑] 자동 딸깍 바로바로 밀대걸레 대형 청소기 노터치 핸디 일회용 청소포용 밀대걸레 원터치 분리 막대걸",
+  "subId": "salka055"
  }
 ]
