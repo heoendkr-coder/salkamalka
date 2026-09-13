@@ -294,11 +294,15 @@
   "no": 143,
   "title": "접이식 썬룸",
   "desc": "",
-  "primary": "",
-  "alt1": "",
-  "alt2": "",
-  "search": "https://www.coupang.com/np/search?q=%EC%A0%91%EC%9D%B4%EC%8B%9D%20%EC%8D%AC%EB%A3%B8",
-  "status": "search_only",
-  "checkedAt": ""
+  "primary": "https://link.coupang.com/a/g1mHoYfwjc",
+  "alt1": "https://link.coupang.com/a/g1mHo4fwhE",
+  "alt2": "https://link.coupang.com/a/g1mHo8J2Hc",
+  "search": "https://link.coupang.com/a/g1mHpbwGdg",
+  "status": "active",
+  "checkedAt": "2026-09-14",
+  "kw": "접이식 썬룸",
+  "altsChecked": "2026-09-14",
+  "primaryName": "무지개 테라스 썬룸 농막 돔하우스 조립식 접이식 야외 온실 투명 창고 가림막",
+  "subId": "jilleo143"
  }
 ]
