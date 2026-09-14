@@ -324,11 +324,15 @@
   "no": 48,
   "title": "책장 부착 충전식 무드등",
   "desc": "",
-  "primary": "",
-  "alt1": "",
-  "alt2": "",
-  "search": "https://www.coupang.com/np/search?q=%EC%B1%85%EC%9E%A5%20%EB%B6%80%EC%B0%A9%20%EC%B6%A9%EC%A0%84%EC%8B%9D%20%EB%AC%B4%EB%93%9C%EB%93%B1",
-  "status": "search_only",
-  "checkedAt": ""
+  "primary": "https://link.coupang.com/a/g2ipnTuegS",
+  "alt1": "https://link.coupang.com/a/g2ipnYVFpA",
+  "alt2": "https://link.coupang.com/a/g2ipn30mOW",
+  "search": "https://link.coupang.com/a/g2ipn6LD9U",
+  "status": "active",
+  "checkedAt": "2026-09-14",
+  "kw": "책장 부착 충전식 무드등",
+  "altsChecked": "2026-09-14",
+  "primaryName": "21세기트랜드 씨램 무선 충전식 자석부착 센서등 2p + 리모컨 세트, 화이트, 1세트",
+  "subId": "jilleo048"
  }
 ]
