@@ -339,11 +339,15 @@
   "no": 163,
   "title": "수납침대",
   "desc": "",
-  "primary": "",
-  "alt1": "",
-  "alt2": "",
-  "search": "https://www.coupang.com/np/search?q=%EC%88%98%EB%82%A9%EC%B9%A8%EB%8C%80",
-  "status": "search_only",
-  "checkedAt": ""
+  "primary": "https://link.coupang.com/a/g28HER5S9I",
+  "alt1": "https://link.coupang.com/a/g28HEXigRU",
+  "alt2": "https://link.coupang.com/a/g28HE2hMtM",
+  "search": "https://link.coupang.com/a/g28HE4RP0C",
+  "status": "active",
+  "checkedAt": "2026-09-15",
+  "kw": "수납침대",
+  "altsChecked": "2026-09-15",
+  "primaryName": "동서가구 네스트 리프트업 수납 침대 프레임 단품 방문설치, 화이트",
+  "subId": "jilleo163"
  }
 ]
