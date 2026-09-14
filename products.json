@@ -571,11 +571,15 @@
   "no": 88,
   "title": "무타공 키친타월 걸이",
   "desc": "",
-  "primary": "",
-  "alt1": "",
-  "alt2": "",
-  "search": "https://www.coupang.com/np/search?q=%EB%AC%B4%ED%83%80%EA%B3%B5%20%ED%82%A4%EC%B9%9C%ED%83%80%EC%9B%94%20%EA%B1%B8%EC%9D%B4",
-  "status": "search_only",
-  "checkedAt": ""
+  "primary": "https://link.coupang.com/a/g1YfmAlkGq",
+  "alt1": "https://link.coupang.com/a/g1YfmF7IJM",
+  "alt2": "https://link.coupang.com/a/g1YfmKUO05",
+  "search": "https://link.coupang.com/a/g1YfmOACYe",
+  "status": "active",
+  "checkedAt": "2026-09-14",
+  "kw": "무타공 키친타월 걸이",
+  "altsChecked": "2026-09-14",
+  "primaryName": "카로히포 무타공 자석 키친타올 걸이, 2개, 화이트",
+  "subId": "salka088"
  }
 ]
