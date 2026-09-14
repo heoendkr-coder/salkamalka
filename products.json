@@ -601,11 +601,15 @@
   "no": 110,
   "title": "새우 껍질 제거기",
   "desc": "",
-  "primary": "",
-  "alt1": "",
-  "alt2": "",
-  "search": "https://www.coupang.com/np/search?q=%EC%83%88%EC%9A%B0%20%EA%BB%8D%EC%A7%88%20%EC%A0%9C%EA%B1%B0%EA%B8%B0",
-  "status": "search_only",
-  "checkedAt": ""
+  "primary": "https://link.coupang.com/a/g2HgpCl5cy",
+  "alt1": "https://link.coupang.com/a/g2HgpI8noi",
+  "alt2": "https://link.coupang.com/a/g2HgpOeaZM",
+  "search": "https://link.coupang.com/a/g2HgpQPCPQ",
+  "status": "active",
+  "checkedAt": "2026-09-14",
+  "kw": "새우 껍질 제거기",
+  "altsChecked": "2026-09-14",
+  "primaryName": "리치캣 스텐 새우 껍질 제거기 새우까기 내장제거 손질칼",
+  "subId": "salka110"
  }
 ]
