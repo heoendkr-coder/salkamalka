@@ -616,11 +616,15 @@
   "no": 157,
   "title": "지갑",
   "desc": "",
-  "primary": "",
-  "alt1": "",
-  "alt2": "",
-  "search": "https://www.coupang.com/np/search?q=%EC%A7%80%EA%B0%91",
-  "status": "search_only",
-  "checkedAt": ""
+  "primary": "https://link.coupang.com/a/g3t84zTsLA",
+  "alt1": "https://link.coupang.com/a/g3t84E9bci",
+  "alt2": "https://link.coupang.com/a/g3t84JMmEm",
+  "search": "https://link.coupang.com/a/g3t84L6dmm",
+  "status": "active",
+  "checkedAt": "2026-09-15",
+  "kw": "지갑",
+  "altsChecked": "2026-09-15",
+  "primaryName": "ELLE Homme (엘르옴므) 남성지갑 8601501-1",
+  "subId": "salka157"
  }
 ]
