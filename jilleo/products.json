@@ -379,12 +379,16 @@
   "no": 134,
   "title": "신발 세탁 세제",
   "desc": "",
-  "primary": "",
-  "alt1": "",
-  "alt2": "",
-  "search": "https://www.coupang.com/np/search?q=%EC%8B%A0%EB%B0%9C%20%EC%84%B8%ED%83%81%20%EC%84%B8%EC%A0%9C",
-  "status": "search_only",
-  "checkedAt": "",
-  "video": "WcgsEPyQNIo"
+  "primary": "https://link.coupang.com/a/g6njmGsOFU",
+  "alt1": "https://link.coupang.com/a/g6njmMxLwW",
+  "alt2": "https://link.coupang.com/a/g6njmR5Q2C",
+  "search": "https://link.coupang.com/a/g6njmUX4RE",
+  "status": "active",
+  "checkedAt": "2026-09-17",
+  "video": "WcgsEPyQNIo",
+  "kw": "신발 세탁 세제",
+  "altsChecked": "2026-09-17",
+  "primaryName": "유니손 운동화크리너 신발 세척 세탁세제 360g",
+  "subId": "jilleo134"
  }
 ]
