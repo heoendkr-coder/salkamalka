@@ -690,12 +690,16 @@
   "no": 180,
   "title": "조립식깔판",
   "desc": "",
-  "primary": "",
-  "alt1": "",
-  "alt2": "",
-  "search": "https://www.coupang.com/np/search?q=%EC%A1%B0%EB%A6%BD%EC%8B%9D%EA%B9%94%ED%8C%90",
-  "status": "search_only",
-  "checkedAt": "",
-  "video": ""
+  "primary": "https://link.coupang.com/a/g6OQInael2",
+  "alt1": "https://link.coupang.com/a/g6OQIrzVls",
+  "alt2": "https://link.coupang.com/a/g6OQIv9JWS",
+  "search": "https://link.coupang.com/a/g6OQIyX0G4",
+  "status": "active",
+  "checkedAt": "2026-09-17",
+  "video": "",
+  "kw": "조립식깔판",
+  "altsChecked": "2026-09-17",
+  "primaryName": "블럭깔판 플라스틱깔판 조립식깔판 바닥깔판",
+  "subId": "salka180"
  }
 ]
