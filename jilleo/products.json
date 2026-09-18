@@ -411,12 +411,16 @@
   "no": 178,
   "title": "투명 시트지",
   "desc": "",
-  "primary": "",
-  "alt1": "",
-  "alt2": "",
-  "search": "https://www.coupang.com/np/search?q=%ED%88%AC%EB%AA%85%20%EC%8B%9C%ED%8A%B8%EC%A7%80",
-  "status": "search_only",
-  "checkedAt": "",
-  "video": ""
+  "primary": "https://link.coupang.com/a/g8jN5e10ou",
+  "alt1": "https://link.coupang.com/a/g8jN5jJ2kK",
+  "alt2": "https://link.coupang.com/a/g8jN5nyb9g",
+  "search": "https://link.coupang.com/a/g8jN5reKZg",
+  "status": "active",
+  "checkedAt": "2026-09-18",
+  "video": "",
+  "kw": "투명 시트지",
+  "altsChecked": "2026-09-18",
+  "primaryName": "아르메종 두꺼운 내열 접착식 시트지 주방 투명 보호필름 조리대 대리석 테이블 옷장 타일 스텐, 1개",
+  "subId": "jilleo178"
  }
 ]
