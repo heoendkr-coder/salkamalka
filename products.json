@@ -754,12 +754,16 @@
   "no": 195,
   "title": "신발 수납장",
   "desc": "",
-  "primary": "",
-  "alt1": "",
-  "alt2": "",
-  "search": "https://www.coupang.com/np/search?q=%EC%8B%A0%EB%B0%9C%20%EC%88%98%EB%82%A9%EC%9E%A5",
-  "status": "search_only",
-  "checkedAt": "",
-  "video": ""
+  "primary": "https://link.coupang.com/a/hctxrZRIsK",
+  "alt1": "https://link.coupang.com/a/hctxr41Pwq",
+  "alt2": "https://link.coupang.com/a/hctxsbdbPw",
+  "search": "https://link.coupang.com/a/hctxsdL3PU",
+  "status": "active",
+  "checkedAt": "2026-09-20",
+  "video": "",
+  "kw": "신발 수납장",
+  "altsChecked": "2026-09-20",
+  "primaryName": "LADERIVE 현관 신발장 다용도 신발장 정리대 방진 신발 수납장 60CM",
+  "subId": "salka195"
  }
 ]
