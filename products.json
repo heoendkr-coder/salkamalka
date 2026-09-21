@@ -770,12 +770,16 @@
   "no": 121,
   "title": "에그쿠커",
   "desc": "",
-  "primary": "",
-  "alt1": "",
-  "alt2": "",
-  "search": "https://www.coupang.com/np/search?q=%EC%97%90%EA%B7%B8%EC%BF%A0%EC%BB%A4",
-  "status": "search_only",
-  "checkedAt": "",
-  "video": ""
+  "primary": "https://link.coupang.com/a/heg03b7cxo",
+  "alt1": "https://link.coupang.com/a/heg03iDXsP",
+  "alt2": "https://link.coupang.com/a/heg03nk2Nw",
+  "search": "https://link.coupang.com/a/heg03p1xUy",
+  "status": "active",
+  "checkedAt": "2026-09-21",
+  "video": "",
+  "kw": "에그쿠커",
+  "altsChecked": "2026-09-21",
+  "primaryName": "파르셀 계란찜기 에그쿠커 2단 올스텐 타이머 SUS304, CES-397W",
+  "subId": "salka121"
  }
 ]
